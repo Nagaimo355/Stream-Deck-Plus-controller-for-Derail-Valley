@@ -1,4 +1,4 @@
-# StreamDeckPlusController_for_DerailValley
+
 Elgato製 Stream Deck Plusを用いたDerail Valley用コントローラー。SL以外のディーゼル/バッテリー機関車で使用可能です。
 
 # 必要なもの
